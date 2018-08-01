@@ -2,7 +2,7 @@ package com.MEGR.http;
 import java.io.*;
 import java.net.*;
 public class Server {
-	private static final int PORT = 8080;
+	private static final int PORT = 2627;
     public static void main(String[] args) {
         try {
             @SuppressWarnings("resource")
